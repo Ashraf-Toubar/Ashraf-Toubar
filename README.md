@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://tryhackme.com/p/ATOUBAR" target="blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ATOUBAR.png" alt="TryHackMe"></a>
+<br>
+<a href="https://www.codewars.com/users/Ashraf-Toubar">
+<img src="https://www.codewars.com/users/Ashraf-Toubar/badges/large"></a>
+
