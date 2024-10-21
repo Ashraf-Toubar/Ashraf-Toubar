@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b38fb1f-1769-421f-be0e-6d827932fd70)### Hi there 👋
+### Hi there 👋
 
 <!--
 **Ashraf-Toubar/Ashraf-Toubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
